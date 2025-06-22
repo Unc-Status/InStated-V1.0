@@ -14,8 +14,7 @@
 
 #define ASSET_MAJOR "Asset Plugin"
 
-#define ASSET_ERROR_FILE "Asset File Corrupt Cannot Open Asset File\n
-#define ASSET_ERROR_FORMAT "Asset Format Extension Not Supported\n"
+#define ASSET_ERROR_FILE "Asset File Corrupt Cannot Open Asset File\n"
 
 #define ASSET_TYPE_MODEL 0x0
 #define ASSET_TYPE_TEXTURE 0x1
