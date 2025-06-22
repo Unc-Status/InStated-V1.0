@@ -1,11 +1,15 @@
 /**
   assetplug.h copyright( c ) UncStatus++ 
   This file is to plugin assets to the game
+  File written by UncStatus++
+  Praise The Lord For All Things!
 */
 #ifndef ASSETPLUG_H
 #define ASSETPLUG_H
 
 #define ASSET_MAJOR "Asset Plugin"
+
+#define ASSET_ERROR_FORMAT "Asset Format Extension Not Supported\n"
 
 class AssetPlug{
 public:
