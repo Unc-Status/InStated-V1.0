@@ -9,6 +9,7 @@ namespace D3D{
 
    void Render(ID3DResource * pResource);
    void Release(ID3DResource * pResource);
+   void HookD3DWindow(WINDOW Window, HDC &pDeviceContext);
 
 }
 
