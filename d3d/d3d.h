@@ -7,8 +7,8 @@ namespace D3D{
    static char cBuff[1024];
  }
 
-   void Render();
-   void Release();
+   void Render(ID3DResource * pResource);
+   void Release(ID3DResource * pResource);
 
 }
 
