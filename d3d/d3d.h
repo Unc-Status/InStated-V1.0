@@ -3,11 +3,12 @@
 
 namespace D3D{
 
+ namespace D3DBuffer{
    static char cBuff[1024];
+ }
 
-   void Release();
    void Render();
-   void Open();
+   void Release();
 
 }
 
